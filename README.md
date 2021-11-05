@@ -21,6 +21,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* Add an importance noter next to each reminder. To help the user prioritize future tasks.
+* Color code the reminder list between red and blue or other two colors to indicate if a due date is near.
 
 ## Video Walkthrough
 
@@ -33,10 +35,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+* Understanding the syntax. But after comparing it to the java code I got a better idea of how the classes and parameters where being represented in kotlin.
+* Activating virtualization to run the android emulator.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Jonathan S]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
